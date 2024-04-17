@@ -1,7 +1,7 @@
 .elementor-17696 .elementor-element.elementor-element-59eb8ec:not(.elementor-motion-effects-element-type-background), .elementor-17696 .elementor-element.elementor-element-59eb8ec>.elementor-motion-effects-container>.elementor-motion-effects-layer {
     background: url(./cutting-chai-banner.jpeg) !important;
     background-position:center center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat !important;
     background-size: contain;
     height: 100vh;
     width: 100%;
