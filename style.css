@@ -1,42 +1,86 @@
-.elementor-17696 .elementor-element.elementor-element-59eb8ec:not(.elementor-motion-effects-element-type-background), .elementor-17696 .elementor-element.elementor-element-59eb8ec>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background: url(./cutting-chai-banner.jpeg) !important;
-    background-position:center center;
-    background-repeat: no-repeat !important;
-    background-size: contain;
-    height: 100vh;
-    width: 100%;
+.elementor-17696
+  .elementor-element.elementor-element-59eb8ec:not(
+    .elementor-motion-effects-element-type-background
+  ),
+.elementor-17696
+  .elementor-element.elementor-element-59eb8ec
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background: url(./cutting-chai-banner.jpeg) !important;
+  background-position: center center;
+  background-repeat: no-repeat !important;
+  background-size: contain;
+  height: 100vh;
+  width: 100%;
 }
 
-.elementor-17696 .elementor-element.elementor-element-008daf0:not(.elementor-motion-effects-element-type-background)>.elementor-widget-wrap, .elementor-17696 .elementor-element.elementor-element-008daf0>.elementor-widget-wrap>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-    background-image: url(https://easyeat.ancorathemes.com/wp-content/uploads/2023/01/decoration-bg-1.png);
-    background-image: none !important;
-    background-position: center right;
-    background-repeat: no-repeat;
-    background-size: cover;
+.elementor-17696
+  .elementor-element.elementor-element-008daf0:not(
+    .elementor-motion-effects-element-type-background
+  )
+  > .elementor-widget-wrap,
+.elementor-17696
+  .elementor-element.elementor-element-008daf0
+  > .elementor-widget-wrap
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url(https://easyeat.ancorathemes.com/wp-content/uploads/2023/01/decoration-bg-1.png);
+  background-image: none !important;
+  background-position: center right;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media screen and (max-width: 550px) {
-    .mobile-about-us {
-      padding: 0px 20px 0px 20px;
-    }
-    .mobile-about-us p {
-      padding: 0px 0 0px 0;
-    }
+  .mobile-about-us {
+    padding: 0px 20px 0px 20px;
+  }
+  .mobile-about-us p {
+    padding: 0px 0 0px 0;
+  }
 
-    .elementor-17696 .elementor-element.elementor-element-59eb8ec:not(.elementor-motion-effects-element-type-background), .elementor-17696 .elementor-element.elementor-element-59eb8ec>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-      background-position: center center;
-      background-repeat: no-repeat !important;
-      background-size: cover !important;
-      height: 40vh;
-      width: 100% !important;
-    }
+  .elementor-17696
+    .elementor-element.elementor-element-59eb8ec:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-17696
+    .elementor-element.elementor-element-59eb8ec
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: center center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 40vh;
+    width: 100% !important;
   }
+  .logo_image.mobile {
+    display: none !important;
+  }
+  .hide-btn{
+    display: none !important;
+  }
+}
 @media screen and (max-width: 767px) {
-    .elementor-17696 .elementor-element.elementor-element-59eb8ec:not(.elementor-motion-effects-element-type-background), .elementor-17696 .elementor-element.elementor-element-59eb8ec>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-      background-position: center center;
-      background-repeat: no-repeat !important;
-      background-size: cover !important;
-      height: 40vh;
-      width: 100% !important;
-    }
+  .elementor-17696
+    .elementor-element.elementor-element-59eb8ec:not(
+      .elementor-motion-effects-element-type-background
+    ),
+  .elementor-17696
+    .elementor-element.elementor-element-59eb8ec
+    > .elementor-motion-effects-container
+    > .elementor-motion-effects-layer {
+    background-position: center center;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    height: 40vh;
+    width: 100% !important;
   }
+
+  .logo_image.mobile {
+    display: none !important;
+  }
+
+  .hide-btn{
+    display: none !important;
+  }
+}
